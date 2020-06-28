@@ -10,10 +10,25 @@
 - [Tarefa](#-tarefa)
 - [Desenvolvimento](#-desenvolvimento)
 
+
 ---
 
 ### Sobre
 
+Projeto desenvolvido pelo Grupo 06 como um dos assigments da Gama XP 34 da [Gama Academy](https://gama.academy/).
+- Equipe Hyper
+  - Dionatha Rodrigues
+  - Daphne Blaese
+- Equipe Hacker
+  - Camila Diniz
+  - Gustavo Henrique
+  - Nathalia Medeiros
+- Equipe Hipster
+  - Leonardo Soares
+  - Murilo Eleuterio
+  - Raul Guimarães
+- Equipe Huster
+  - Tales Queiroz
 
 ---
 
